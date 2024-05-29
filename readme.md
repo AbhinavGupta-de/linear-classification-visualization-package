@@ -7,24 +7,32 @@ This is a simple visualization of linear classification using p5.js. It allows y
 - [linear-classification-visualization](#linear-classification-visualization)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
-    - [Using the p5.js Web Editor](#using-the-p5js-web-editor)
-    - [Setting Up Locally](#setting-up-locally)
+    - [Using npm](#using-npm)
   - [Usage](#usage)
   - [Example](#example)
 
 ## Installation
 
-### Using the p5.js Web Editor
+### Using npm
 
-1. Go to the [p5.js Web Editor](https://editor.p5js.org/).
-2. Create a new sketch.
-3. Add a new file named `index.js` and paste the library code into it.
+1. Create a new directory for your project and navigate to it:
 
-### Setting Up Locally
+   ```bash
+   mkdir my-linear-classification-project
+   cd my-linear-classification-project
+   ```
 
-1. Install the
-2. Inside this folder, create a `sketch.js` file and a `index.js` file.
-3. Copy the library code into `index.js`.
+2. Initialize a new Node.js project:
+
+   ```bash
+   npm init -y
+   ```
+
+3. Install the `linear-classification-visualization` package and `p5`:
+
+   ```bash
+   npm install linear-classification-visualization p5
+   ```
 
 ## Usage
 
