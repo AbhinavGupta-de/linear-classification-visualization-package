@@ -1,11 +1,25 @@
 {
-  "name": "linear-classification-visualization",
-  "version": "1.0.0",
-  "description": "This is a simple visulization of ilnear classification using p5.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Abhinav Gupta",
-  "license": "ISC"
+	"name": "linear-classification-visualization",
+	"version": "1.0.0",
+	"description": "This is a simple visualization of linear classification using p5.js",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AbhinavGupta-de/linear-classification-visualization-package"
+	},
+	"keywords": [
+		"linear",
+		"classification",
+		"visualization",
+		"p5.js"
+	],
+	"author": "Abhinav Gupta",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AbhinavGupta-de/linear-classification-visualization-package/issues"
+	},
+	"homepage": "https://github.com/AbhinavGupta-de/linear-classification-visualization-package/#readme"
 }
